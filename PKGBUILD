@@ -1,6 +1,6 @@
 # Maintainer: Mysti
 
-pkgname=proton-pass
+pkgname=proton-pass-bin
 pkgver=1.19.2
 pkgrel=1
 pkgdesc="Open-source password manager for effortless protection. Securely store, share and auto-login your accounts with Proton Pass, using end-to-end encryption trusted by millions."
