@@ -1,16 +1,14 @@
 # Maintainer: Mysti
 
 pkgname=proton-pass-bin
-pkgver=1.19.2
+pkgver=1.20.0
 pkgrel=1
 pkgdesc="Open-source password manager for effortless protection. Securely store, share and auto-login your accounts with Proton Pass, using end-to-end encryption trusted by millions."
 arch=("x86_64")
 url="https://proton.me/pass"
 groups=("ProtonPass")
-
 source=("https://proton.me/download/PassDesktop/linux/x64/ProtonPass_${pkgver}.deb")
-sha256sums=('a75e9095e5fa654bba65f10f58269369670cce8176aee360b6f9c30c7f7988b4')
-
+sha256sums=('c87d094fec7c3dbe9a74de7650519f4e95b7fb42e69f285f16c55282b315958b')
 conflicts=('proton-pass' 'protonpass')
 replaces=('proton-pass' 'protonpass')
 
