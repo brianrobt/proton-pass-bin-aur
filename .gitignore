@@ -1,4 +1,5 @@
 *.deb
+*.log
 *.tar.zst
 pkg/
 src/
